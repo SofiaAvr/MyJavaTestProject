@@ -1,4 +1,4 @@
-package com.neotech.review01;
+package testpackage01;
 
 import java.util.Scanner;
 

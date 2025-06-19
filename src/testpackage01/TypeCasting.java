@@ -1,4 +1,4 @@
-package com.neotech.review01;
+package testpackage01;
 
 public class TypeCasting {
 	public static void main(String[] args) {
